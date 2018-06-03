@@ -1,0 +1,80 @@
+---
+title: "hortim simplifie"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup.and.data.import, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+rm(list=ls())
+
+library(tableone)
+library(ggplot2)
+library(xlsx)
+library(tableone)
+library(exactRankTests)
+
+d <- read.csv2("HORTIM-SIMPLIFIE.csv",header = TRUE, sep = ";")
+
+d$H <- NA
+d$H[d$Diagnostic.Final=="Oui"] <- 1
+d$NH[d$Diagnostic.Final=="Non"] <- 0
+
+dH <- subset(d,d$Diagnostic.Final=="Oui")
+dNH <- subset(d,d$Diagnostic.Final=="Non")
+
+```
+
+Nombre de cas et de patients
+```{r diagnostic.et.bat, echo=FALSE}
+table(d$BAT,d$Diagnostic.Final)
+```
+
+Signes cliniques et diagnostic final
+```{r clinique, echo=FALSE}
+clin <- c("Cephalees.Recentes", "Claudication.Machoire", "Claudication.Langue", "Troubles.Deglutition","Cecite","Diplopie.Symptome","Vision.Trouble","Hypersensibilite.Cuir.Chevelu","Inducation.Cuir.Chevelu","Nodules.Adistance.AT","Anomalie.Palpation.AT", "Douleurs.Faciales","Sensation.Oedeme.Facial","Fievre","Amaigrissement.Sup.10pcent","Anorexie","Malaise","Asthenie","Douleurs.Ceintures","Amaurose.Fugace","Baisse.Acuite.Visuelle")
+
+tableOne <- CreateTableOne(vars = clin, strata="Diagnostic.Final", data = d)
+
+print(tableOne, exact = TRUE)
+```
+
+
+Signes biologiques et diagnostic final
+```{r biologique}
+
+wilcox.exact(d$VS.Initiale,d$H)
+summary(dH$VS.Initiale)
+summary(dNH$VS.Initiale)
+
+wilcox.exact(d$CRP.Initiale,d$H)
+summary(dH$CRP.Initiale)
+summary(dNH$CRP.Initiale)
+```
+
+Critere IRM
+```{r IRM}
+table(d$IRM.Horton)
+
+table(d$IRM.Horton,d$Diagnostic.Final)
+```
+
+Critere echographique (presence d'un epaississement d'au moins une artere temporale)
+```{r echo}
+table(d$Echo.Horton)
+
+table(d$Echo.Horton,d$Diagnostic.Final)
+```
+
+Critere angiographie retinienne a la fluoresceine (presence d'un retard choroidien)
+```{r fluo}
+table(d$Fluo.Horton)
+
+table(d$Fluo.Horton,d$Diagnostic.Final)
+```
+
+Critere composite propose: 
+- 

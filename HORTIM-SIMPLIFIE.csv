@@ -1,0 +1,46 @@
+Numero.Inclusion;BAT;Diagnostic.Final;Sexe;Age ;VS.Initiale;CRP.Initiale;Cephalees.Recentes;Claudication.Machoire;Claudication.Langue;Troubles.Deglutition;Cecite;Diplopie.Symptome;Vision.Trouble;Hypersensibilite.Cuir.Chevelu;Inducation.Cuir.Chevelu;Nodules.Adistance.AT;Anomalie.Palpation.AT;Douleurs.Faciales;Sensation.Oedeme.Facial;Fievre;Amaigrissement.Sup.10pcent;Anorexie;Malaise ;Asthenie;Douleurs.Ceintures;Amaurose.Fugace;Baisse.Acuite.Visuelle;IRM.Horton;Echo.Horton;Fluo.Horton;Critere.Synthese
+10;Negative;Oui;Feminin;83;92;68;Oui;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Non;Non;Oui
+3;Positive;Oui;Masculin;84;72;71;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;Non;Oui;Oui
+16;Positive;Oui;Masculin;77;66;42;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;CERTAIN;Non;Oui;Oui
+17;Negative;Non;Masculin;83;3;3;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Non;Oui;Oui
+11;Positive;Oui;Feminin;75;70;124;Oui;Oui;Non;Non;Oui;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;;Oui;CERTAIN;Oui;Non;Oui
+34;Negative;Oui;Feminin;59;100;80;Oui;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;CERTAIN;Oui;Non;Oui
+8;Positive;Oui;Feminin;65;114;125;Oui;Oui;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;CERTAIN;Oui;Oui;Oui
+9;Positive;Oui;Feminin;83;110;76;Oui;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+14;Negative;Oui;Feminin;75;26;37;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;;Oui;Non;Non;Oui;Oui;Oui;Oui;CERTAIN;Oui;Oui;Oui
+20;Positive;Oui;Feminin;82;60;55;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+22;Positive;Oui;Masculin;70;70;83;Non;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;CERTAIN;Oui;Oui;Oui
+25;Positive;Oui;Feminin;80;30;15;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+26;Positive;Oui;Feminin;84;33;13;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+27;Negative;Oui;Masculin;86;95;42;Oui;Oui;Non;Non;Non;Oui;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+29;Positive;Oui;Feminin;91; ;57;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+30;Positive;Oui;Masculin;77;50;115;Oui;Oui;Non;Non;Oui;Oui;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+31;Positive;Oui;Masculin;78; ;11;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+33;Positive;Oui;Masculin;72;72;116;Oui;Non;Non;Non;Non;Oui;Oui;Oui;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+37;Positive;Oui;Masculin;94;;87;Non;Oui;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+41;Positive;Oui;Feminin;77;;9;Oui;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;CERTAIN;Oui;Oui;Oui
+43;Negative;Oui;Masculin;89;46;32;Oui;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;Oui;Oui;Oui
+19;Negative;Non;Masculin;74; ;5;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Oui;CERTAIN;;Non;Oui
+1;Positive;Oui;Feminin;77;23;137;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Oui;;Non;Oui;Non;Non;Oui;Oui;Non;Oui;CERTAIN;;Oui;Oui
+6;Positive;Oui;Feminin;83;95;31;Oui;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;;Oui;Oui
+28;Positive;Oui;Feminin;92;15;74;Oui;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;CERTAIN;;Oui;Oui
+5;Negative;Non;Feminin;80;100;5;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;DOUTEUX;Non;Non;Non
+32;Negative;Non;Feminin;70;8;1;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;DOUTEUX;Non;Non;Non
+44;Negative;Oui;Feminin;71;103;179;Oui;Oui;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;DOUTEUX;Oui;Oui;Oui
+45;Positive;Oui;Feminin;81;;;Oui;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;DOUTEUX;Oui;Oui;Oui
+12;Non faite;Non;Masculin;61;71;7;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;NEGATIF;Non;Non;Non
+13;Negative;Non;Feminin;67;42;24;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;NEGATIF;Non;Non;Non
+15;Negative;Non;Masculin;71;32;27;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;NEGATIF;Non;Non;Non
+24;Negative;Non;Masculin;60;16;28;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;NEGATIF;Non;Non;Non
+36;Negative;Non;Feminin;65;18;1;Oui;Non;Non;Non;Oui;Oui;Oui;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;NEGATIF;Non;Non;Non
+39;Negative;Non;Masculin;69;;7;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;NEGATIF;Non;Non;Non
+40;Negative;Non;Masculin;62;32;17;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Oui;NEGATIF;Non;Non;Non
+42;Non faite;Non;Masculin;75;;;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;;;NEGATIF;Non;Non;Non
+2;Negative;Non;Feminin;64;60;9;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;NEGATIF;Non;Oui;Non
+23;Negative;Non;Feminin;75;12;1;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;NEGATIF;Non;Oui;Non
+38;Negative;Non;Feminin;89;100;20;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;NEGATIF;Non;Oui;Non
+35;Negative;Non;Masculin;61;80;10;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;NEGATIF;Non;;Non
+4;Negative;Non;Feminin;70;18;;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;NEGATIF;Oui;Non;Non
+18;Negative;Non;Masculin;80;;3;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;NEGATIF;;Non;Non
+7;Negative;Non;Masculin;73;50;36;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;NEGATIF;;Oui;Non
+21;Negative;Non;Masculin;78;10;1;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;;;Non;
